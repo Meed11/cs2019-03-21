@@ -13,6 +13,14 @@ package by.it.shastin.lesson05;
 0 9
 */
 
-public class TaskA3 {
+import java.util.Scanner;
 
+public class TaskA3 {
+    public static void main(String[] args) {
+        int [] mas=new int [10];
+        Scanner scanner = new Scanner(System.in);
+        for (int i = 9; i >= 0; i--) {
+            mas[i]=scanner.nextInt();
+
+    }
 }
