@@ -1,5 +1,8 @@
 package by.it.shastin.lesson04;
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
 /*
 Определите количество дней в году
 
@@ -27,4 +30,8 @@ package by.it.shastin.lesson04;
 */
 public class TaskB1 {
 
+    public static void main(String[] args) {
+    }
 }
+
+

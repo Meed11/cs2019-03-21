@@ -1,5 +1,7 @@
 package by.it.shastin.lesson02;
 
+import java.util.Scanner;
+
 /*
 Ускорение свободного падения на Земле и Марсе таково:
 Марс   3.86
@@ -29,6 +31,6 @@ package by.it.shastin.lesson02;
 
 
 */
-class TaskC3 {
+class TaskC3  {
 
 }

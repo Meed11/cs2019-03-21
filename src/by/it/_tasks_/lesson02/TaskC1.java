@@ -12,7 +12,12 @@ Sum = 60
 */
 class TaskC1 {
 
+    public static void main(String[] args) {
+        int a=34; int b=26;
+        int r=(a+b);
+        System.out.println("Sum = "+r);
 
+    }
 
 
 

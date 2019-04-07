@@ -19,6 +19,7 @@ int i=sc.nextInt();
 
  */
 
+
 import java.util.Scanner;
 
 class TaskB1 {
@@ -26,6 +27,5 @@ class TaskB1 {
         Scanner sc = new Scanner(System.in);
         int a=sc.nextInt();
         System.out.println(a*a);
-
     }
 }
